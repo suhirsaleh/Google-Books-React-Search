@@ -60,4 +60,3 @@ At the end of the day, the technologies implemented in this project are React, R
 In the future, I plan on adding authentication so that users can only view and delete books that they've saved as opposed to everyone's. This will add a privacy aspect that some users might prefer.
 
 
-View the deployed application at: <b><a href= </a></b>
